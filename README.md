@@ -1,5 +1,5 @@
 - 👋 Olá eu sou FelipeAlthmann
-- 🌱 atualmente estou aprendendo Go
+- 🌱 atualmente estou cursando Sistemas de Informação Faculdade Impacta
 - <div align="center">
   <a href="https://github.com/FelipeAlthmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAlthmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
